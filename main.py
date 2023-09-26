@@ -2,7 +2,7 @@ import os
 import shutil
 
 # windows username
-username = "A.LeyvaSaldana"
+username = ""
 
 # IMAGES
 doc_img = "C:\\Users\\" + username + "\\Pictures\\Documents_Images"
